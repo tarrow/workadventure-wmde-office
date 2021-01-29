@@ -19,7 +19,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Kitchen Chat"
+                 "value":"KitchenChat"
                 }],
          "type":"tilelayer",
          "visible":true,

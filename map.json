@@ -136,10 +136,6 @@
         {
          "firstgid":825,
          "source":"tileset3.tsx"
-        }, 
-        {
-         "firstgid":925,
-         "source":"Wikidata.tsx"
         }],
  "tilewidth":32,
  "type":"map",
